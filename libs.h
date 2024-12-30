@@ -14,5 +14,6 @@
 #include <map>
 #include <algorithm>
 #include <functional>
+#include<windows.h>
 
 using namespace std;
